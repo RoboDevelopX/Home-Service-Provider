@@ -1,5 +1,3 @@
-# Final Year Project
-
 ## Project Overview
 Home service provider project means the facilities-based carrier or reseller with which the customer contracts for the provision of mobile telecommunications services.Users can create an account and log in. They can  find the best services nearby users or across the worldwide and different types of categories provided by our app with a chart visualization
 
